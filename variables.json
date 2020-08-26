@@ -1,0 +1,5 @@
+{
+    "s3_bucket": "flights-dend",
+    "s3_flights_prefix": "flight_dataset",
+    "s3_supplementary_prefix": "flights-dend-supplementary"
+}
