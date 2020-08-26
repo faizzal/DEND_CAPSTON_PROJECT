@@ -23,7 +23,7 @@ Airports
 Airlines
 ![Airlines](img/data_airlines.png)
 
-Dimographics data
+Whether data
 ![Wether](img/wether_data.png)
 
 
