@@ -18,13 +18,13 @@ Flights traffic
 ![flights](img/dataset_flights.png)
 
 Airports
-![Airports](img/dataset_airports.png)
+![Airports](img/dataset_airport.png)
 
 Airlines
 ![Airlines](img/data_airlines.png)
 
 Dimographics data
-![Dimographics](img/dimographics_data.png)
+![Wether](img/wether_data.png)
 
 
 
