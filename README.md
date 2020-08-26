@@ -36,7 +36,7 @@ In this project, we create a data pipeline that will take source files from s3 b
 - Python
 - PostgreSQL
 ### Staging Table for transfer data
-![stage-table](img/staging table.png)
+![stage-table](img/staging_table.png)
 
 ### Data Model
 The data model consists three dimensions table and one fact table 
