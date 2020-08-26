@@ -18,13 +18,13 @@ Flights traffic
 ![flights](img/dataset_flights.png)
 
 Airports
-![Airports](img/dataset_airports.png)
+![Airports](img/dataset_airport.png)
 
 Airlines
 ![Airlines](img/data_airlines.png)
 
-Dimographics data
-![Dimographics](img/dimographics_data.png)
+Whether data
+![Wether](img/wether_data.png)
 
 
 
@@ -35,10 +35,12 @@ In this project, we create a data pipeline that will take source files from s3 b
 - Apache Airflow
 - Python
 - PostgreSQL
+### Staging Table for transfer data
+![stage-table](img/staging_table.png)
 
 ### Data Model
-The final data model consists of 12 dimension and 3 fact tables. Following is the data model diagram:
-![Data-Model]()
+The data model consists three dimensions table and one fact table 
+![Data-Model](img/star_schem_modal.png)
 
 ### Data Pipeline Design
 The data pipeline was designed using Apache Airflow. The whole process was segregated in several phases:
@@ -52,7 +54,7 @@ The data pipeline was designed using Apache Airflow. The whole process was segre
 
 Following is the airflow dag for the whole process:
 
-![airflow-dag]()
+![airflow-dag](img/airflow.png)
 
 ### Addressing Other Scenarios
 
